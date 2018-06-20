@@ -1,4 +1,4 @@
-exports.validateMedicareProviderCode = function(providerCode) {
+validateMedicareProviderCode = function(providerCode) {
   if (!/^[0-9]{6}[0-9ABCDEFGHJKLMNPQRTUVWXY][ABFHJKLTWXY]/.test(providerCode))
     return false;
 

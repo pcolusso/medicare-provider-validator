@@ -1,0 +1,18 @@
+{
+  "name": "medicare-provider-validator",
+  "version": "1.0.0",
+  "description": "Validates a Australian Medicare Provider Number.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github.com/pcolusso/medicare-provider-validator"
+  },
+  "keywords": [
+    "Australia",
+    "Medicare",
+    "Provider",
+    "Validator"
+  ],
+  "author": "Paul Colusso",
+  "license": "ISC"
+}
